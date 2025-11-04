@@ -1,0 +1,35 @@
+Project 8 - Submission Form
+
+This is the submission, implementation, and application running information of the final project of the Stack Minds group.
+
+Story number: 2
+Name: @mentions in comments
+Story points: 6
+Brief description to see the story in action: People can use "@" to mention a person in the comment. Clicking @ while commenting to a photo gives a small dropdown box that shows the list of users and on typing the characters, similar name suggestions are shown.
+
+Story number: 3
+Name: Visibility control on photos
+Story points: 4
+Brief description to see the story in action: After clicking on upload photos, we can give permission to allow only a specific set of people see the uploaded photo by clicking on their user names and then uploading the photo.
+
+Story number: 6
+Name: Photo-like votes
+Story points: 4
+Brief description to see the story in action: When we see the photos on the userPhotos page, a like symbol is shown under each photo we can like the photo by clicking on the thumbs up button and the corresponding count of likes is shown beside the symbol.
+
+Story number: 7
+Name: Favorite lists of photos for users
+Story points: 6
+Brief description to see the story in action: Similar to like button, pressing the heart-shaped button allows users to access their favorite photos by clicking on favorites button present in userDetail page of the corresponding user.
+
+Total Story Points: 20 Points
+
+Marketing Video URL (ensure permissions are set to public viewing): https://drive.google.com/file/d/1DXaR8FeJPYsy0U-v5fPXBuUf3Y_TnyDg/view?usp=drive_link
+
+Is it OK if we post your Marketing Video URL on the class discussion forum: No
+
+Any special instructions for grading (it should be easy for someone to run your app from a new machine):
+First, run the node loadDatabase.js command to load the database to the MongoDB server.
+Then, run the command node webServer.js to start the website.
+The photos stored in the database through loadDatabase.js file will have the "visibility to all" option set to empty, which means only the owner of the photos can see the pictures. However, when uploading the photos through the website's Add Photo functionality, the user can select which users can view the photo and which users cannot.
+If facing issues in running the code, please download the code from master branch and repeat the same. Apologies for the inconvinience caused.
