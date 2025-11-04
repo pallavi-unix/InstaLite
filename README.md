@@ -1,15 +1,9 @@
-# PixelPalooza
-Final project8 for Software Systems Design and Implementations course ITCS 6112
+# InstaLite
+A lighter, minimal version of Instagram.
 
 # Scrum Team
-## Product Owner:
+## Product Owner and Developer:
 Pallavi Deshmukh 
+
 ## Scrum Master:
-Venkata Avinash Mallampati
-## Developers:
-- Pallavi Deshmukh
-- Venkata Avinash Mallampati
-- Praharsha Srikar Kadambari
-- Adarsh Kodumuru
-- Sai Pallavi Vangala
-- Supraj Bejugam
+Pallavi Deshmukh
