@@ -1,0 +1,30 @@
+.photos-container {
+    padding: 20px;
+}
+
+.photo-card {
+    margin-bottom: 30px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.photo-image {
+    width: 100%;
+    display: block;
+}
+
+.comments-section {
+    padding: 10px 20px;
+}
+
+.comment-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border-radius: 4px;
+}
+
+.comment-author {
+    font-weight: bold;
+}
